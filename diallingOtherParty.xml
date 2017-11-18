@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Response>
-    <Say voice="man" language="en-gb" loop="1">Connecting now.</Say>
+    <Say voice="man" language="en-gb" loop="1">Please wait while we connect you.</Say>
 </Response>
